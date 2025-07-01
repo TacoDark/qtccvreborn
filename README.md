@@ -1,4 +1,4 @@
-# QuadTree Compression for ComputerCraft Videos
+# QTCCV Reborn
 
 ## Sample
 Go on any ComputerCraft (CC: Tweaked is the only one confirmed to work, earlier versions are probably not going to work) computer and run `pastebin run KMRmKTc1` to play Bad Apple on it. If you have a speaker, it'll use it. If you have a monitor, it'll also use it. It works even on a normal computer since it only uses black and white.
